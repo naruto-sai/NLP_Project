@@ -15,5 +15,5 @@ The Variables calculated in this project are <h3> 1.	POSITIVE SCORE
 13.	AVG WORD LENGTH
 </h3>
 
-<h4> The Output file is in the format as shown below </h4>
+<h4> The Output file is of the format shown below </h4>
 ![Output](https://user-images.githubusercontent.com/109868726/210379584-bacb0968-2199-4d7f-8891-9843cc46725f.png)
