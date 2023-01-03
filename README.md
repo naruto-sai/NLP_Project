@@ -16,4 +16,4 @@ The Variables calculated in this project are <h3> 1.	POSITIVE SCORE
 </h3>
 
 <h4> The Output file is in the format as shown below </h4>
-![Image](https://github.com/naruto-sai/NLP_Project/blob/main/Output.png)
+![Image](https://github.com/naruto-sai/NLP_Project/blob/main/Output.png?raw=true)
