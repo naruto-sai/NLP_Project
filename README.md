@@ -16,4 +16,4 @@ The Variables calculated in this project are <h3> 1.	POSITIVE SCORE
 </h3>
 
 <h4> The Output file is in the format as shown below </h4>
-![image](https://user-images.githubusercontent.com/109868726/210376315-15e1ee18-0069-4d18-af00-1b821e7533d0.png)
+![Image](Output.png)
